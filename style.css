@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+.had1{
+    border: 5px solid; color: seagreen; margin: 10px; padding: 5px;
+}
+.had{
+    border: 5px solid; color: seagreen; border-radius: 50px; margin: 10px;
+}
+.had2{
+    border: 5px solid red; margin: 10px; padding: 5px; border-radius: 30px; text-align: center; width: 20%; display: inline-block;
+}
